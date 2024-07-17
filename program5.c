@@ -15,20 +15,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Step 2  : Write algorithm 
 /*
 
